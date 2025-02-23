@@ -1,0 +1,13 @@
+; PDA program to check for balanced parentheses.
+
+#Q = {read_input, accept}
+#S = {(,)}
+#G = {(,z}
+#q0 = read_input
+#z0 = z
+#F = {accept}
+
+read_input ( z read_input (z
+read_input ( ( read_input ((
+read_input ) ( read_input _
+read_input _ z accept _

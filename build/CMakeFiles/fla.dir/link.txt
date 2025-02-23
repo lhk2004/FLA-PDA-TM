@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/fla.dir/fla-project/main.cpp.o CMakeFiles/fla.dir/fla-project/parser.cpp.o CMakeFiles/fla.dir/fla-project/pda.cpp.o CMakeFiles/fla.dir/fla-project/tm.cpp.o -o ../bin/fla 
